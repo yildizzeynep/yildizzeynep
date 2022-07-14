@@ -9,7 +9,7 @@
 ---
 
 # TRY HACK ME
-<script src="https://tryhackme.com/badge/1162967"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/yildizze.png" alt="TryHackMe">
 ---
 
 # CURRENTLY WORKING ON...
