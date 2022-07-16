@@ -15,10 +15,9 @@
 # SUMMARY OF MY GİTHUB PAGE
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yildizzeynep&theme=dark&background=000000)](https://git.io/streak-stats)
-<p align="center">
- <img href="https://github.com/yildizzeynep" src="https://github-readme-stats.vercel.app/api?username=yildizzeynep&show_icons=true&count_private=true&theme=default&include_all_commits=true" height="150">   
-<img href="https://github.com/yildizzeynep" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildizzeynep&layout=compact&theme=default&langs_count=6&hide=html,css" height="150">
-</p>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yildizzeynep&count_private=true&theme=vision-friendly-dark&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yildizzeynep&langs_count=8&layout=compact&theme=vision-friendly-dark&count_private=true)]()
+---
  
 
 
