@@ -12,8 +12,9 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/yildizze.png" alt="TryHackMe">
 ---
 
-# CURRENTLY WORKING ON...
+# SUMMARY OF MY GİTHUB PAGE
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yildizzeynep&theme=dark&background=000000)](https://git.io/streak-stats)
 <p align="center">
  <img href="https://github.com/yildizzeynep" src="https://github-readme-stats.vercel.app/api?username=yildizzeynep&show_icons=true&count_private=true&theme=default&include_all_commits=true" height="150">   
 <img href="https://github.com/yildizzeynep" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildizzeynep&layout=compact&theme=default&langs_count=6&hide=html,css" height="150">
