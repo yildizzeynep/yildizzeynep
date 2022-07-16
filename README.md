@@ -6,10 +6,11 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/yildizzeynep)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-yildiz-zy/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yildizzeynep729@gmail.com)
----
+
+***
 
 # TRY HACK ME
-<img src="https://tryhackme-badges.s3.amazonaws.com/yildizze.png" alt="TryHackMe" height="150">
+<img src="https://tryhackme-badges.s3.amazonaws.com/yildizze.png" alt="TryHackMe" height="110">
 ---
 
 # SUMMARY OF MY GİTHUB PAGE
