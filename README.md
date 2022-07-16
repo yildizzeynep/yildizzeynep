@@ -9,7 +9,7 @@
 ---
 
 # TRY HACK ME
-<img src="https://tryhackme-badges.s3.amazonaws.com/yildizze.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/yildizze.png" alt="TryHackMe" height="150">
 ---
 
 # SUMMARY OF MY GİTHUB PAGE
