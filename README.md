@@ -16,8 +16,9 @@
 
 # SUMMARY OF MY GİTHUB PAGE
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yildizzeynep&theme=dark&background=000000)](https://git.io/streak-stats)
 [![3D](https://github.com/yildizzeynep/yildizzeynep/blob/main/profile-3d-contrib/profile-night-view.svg)](https://github.com/yildizzeynep?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yildizzeynep&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ---
  
