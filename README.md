@@ -11,13 +11,14 @@
 
 # TRY HACK ME
 <img src="https://tryhackme-badges.s3.amazonaws.com/yildizze.png" alt="TryHackMe" height="110">
+
 ---
 
 # SUMMARY OF MY GİTHUB PAGE
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yildizzeynep&theme=dark&background=000000)](https://git.io/streak-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yildizzeynep&count_private=true&theme=vision-friendly-dark&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yildizzeynep&langs_count=8&layout=compact&theme=vision-friendly-dark&count_private=true)]()
+[![3D](https://github.com/yildizzeynep/yildizzeynep/blob/main/profile-3d-contrib/profile-night-view.svg)](https://github.com/yildizzeynep?tab=repositories)
+
 ---
  
 
